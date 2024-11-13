@@ -1,0 +1,1 @@
+# ir_sppu_practicals
